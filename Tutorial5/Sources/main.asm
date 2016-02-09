@@ -1,4 +1,4 @@
-;*                       McMaster University                         *
+;*                       Mac University                              *
 ;*********************************************************************               
 ;*                      2DP4 Microcontrollers                        *
 ;*                            Tutorial 5                             *
