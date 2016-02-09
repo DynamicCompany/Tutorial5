@@ -6,7 +6,8 @@
 ;*********************************************************************
 ;*********************************************************************
 ;*                       Tutorial 5 Companion Code                         
-; BEFORE YOU START!!!!!!!!!!!!! READ THIS!!!!!!!!!!!!!!!!
+; HI SOUZAN!!!!!!!!!!!!! 
+;BEFORE YOU START!!!!!!!!!!!!! READ THIS!!!!!!!!!!!!!!!!
 ;
 ; Read Tutorial 5
 ; This code does not contain any I/O beyond heatbeat LED
